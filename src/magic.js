@@ -18,6 +18,7 @@ const getMagicCard = async (cardId) => {
   }
   
 };
+console.log(getMagicCard('130550'));
 
 module.exports = {
   getMagicCard,
